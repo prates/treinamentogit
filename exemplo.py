@@ -20,10 +20,7 @@ if __name__ == "__main__":
     region = "sa-east-1"
     file_json = open("flags.json")
     data = file_json.read()
-    flags = json.loads(data)
     if flags["colaborar"]:
         read_colaborar("teste")
     if flags["olimpo"]:
         read_olimpo("olimpo")
-    if flags["Athena"]:
-        read_athena("zdsd")
