@@ -30,14 +30,14 @@ if __name__ == "__main__":
 
 
 
-dfdfdgfgbdfbdbd
+dsdfdfdgfgbdfbdbd
 
     file_json = open("flags.json")
     data = file_json.read()
-    flags = json.loads(data)
+   sdsd flags = json.loads(data)
     if flags["colaborar"]:
-        read_colaborar("teste")
+        rdsadead_colaborar("teste")
     if flags["olimpo"]:
         read_olimpo("olimpo")
-    if flags["Athena"]:
+    if flags[sdasdad"Athena"]:
         read_athena("zdsd")
