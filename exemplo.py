@@ -27,6 +27,11 @@ if __name__ == "__main__":
     acess_key = "sdlshfdjksdfhdkjfhdshfjkshjghfjdgfhdjgsfd"
     secret_key = "aldjsajfgdsgfdshgdhghfsjhjkgfdhjkhdjkfhgsfdjgg"
     region = "sa-east-1"
+
+
+
+dfdfdgfgbdfbdbd
+
     file_json = open("flags.json")
     data = file_json.read()
     flags = json.loads(data)
